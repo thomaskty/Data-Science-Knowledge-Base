@@ -1,0 +1,76 @@
+https://github.com/srikhetramohanty/Data-Science-Portfolio/tree/main
+
+
+
+dsa
+
+# 1. Sorting & Related Topics
+# - Built-in sort / sorted
+# - Custom sort with key / lambda
+# - Counting sort / bucket sort / radix sort (basics)
+# - Rotations & circular arrays (rotated sorted array search)
+# - Finding kth largest / smallest element
+
+# 2. Number Sequences & Math
+# - Factorial, combinations, permutations
+# - Fibonacci sequence (recursive, iterative, DP)
+# - Prime numbers, GCD / LCM
+# - Sum of digits, number reversal, palindrome numbers
+# - Modular arithmetic (common in probabilities or hashing)
+
+# 3. Searching
+# - Linear search
+# - Binary search (on sorted arrays)
+# - Search for first/last occurrence
+# - Search in rotated sorted arrays
+# - Search using two pointers or sliding window
+
+# 4. Hashing & Maps
+# - Counting occurrences using dict / Counter
+# - Finding duplicates, missing numbers
+# - Two sum / pair sum problems
+# - Sliding window with hash map for strings or arrays
+
+# 5. Two Pointer Technique
+# - Pair sum problems
+# - Triplets with given sum
+# - Partitioning arrays
+# - Moving start & end pointers based on conditions
+
+# 6. Sliding Window
+# - Maximum / minimum in window
+# - Sum or average of subarrays of size k
+# - Longest substring with unique characters
+# - Variable size window for problems like “smallest subarray with sum >= target”
+
+# 7. Single Pointer / Simple Iteration Patterns
+# - Prefix sum arrays
+# - Counting problems with one pass
+# - Accumulation / cumulative product
+# - Array modification in-place
+
+# 8. Basic Dynamic Programming (Easy / Medium)
+# - Fibonacci sequence (iterative DP)
+# - Coin change (basic)
+# - Climbing stairs / number of ways
+# - Maximum subarray sum (Kadane’s algorithm)
+# - Simple memoization patterns
+
+# 9. String Patterns / Sequences
+# - Palindromes (check & longest)
+# - Reverse words in string
+# - Substrings with given properties
+# - Basic compression / run-length encoding
+
+# 10. Miscellaneous Array Tricks
+# - Prefix sum & difference array
+# - Product of array except self
+# - Subarray problems: sum, max/min, length
+# - Rotation and reversal tricks
+# - In-place swapping / partitioning
+
+# 11. Bit Manipulation Basics
+# - XOR for single element / duplicates
+# - Checking odd/even, set/unset bits
+# - Counting bits (popcount)
+# - Simple masking problems
