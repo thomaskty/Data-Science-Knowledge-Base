@@ -11,3 +11,4 @@ ENV/
 .DS_Store
 *.log
 *.ipynb_checkpoints/
+.DS_Store
